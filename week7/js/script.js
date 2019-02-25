@@ -7,7 +7,7 @@
     quote: "Nevermore",
     maxOffSpring: 5,
     noisy: true,
-    deadly: false,
+    deadly: true,
 };
 var bird =
 {
